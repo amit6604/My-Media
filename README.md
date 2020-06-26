@@ -1,1 +1,1 @@
-# My-Media contents for my blogging website.(https://mydatascienceblog.herokuapp.com/)
+# My-Media contents for my blogging website.(https://amitblogs.herokuapp.com/)
